@@ -79,6 +79,8 @@ the function is `clean_data()` and in specific the steps are the following:
 4. Store the final length of the table into a variable.
 5. Print the number of rows deleted in the enviornment such that everyone can see it in the `logs`.
 
+The rows deleted are `31`.
+
 ```python
 # 1.b. clean data
 def clean_data(merged_df):
