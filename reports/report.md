@@ -5,11 +5,9 @@
 
 
 ## Report
-Here are the answer for the differents tasks:
+Here are the answers for the differents tasks:
 1. [Task 1](#task-1)
 2. [Task 2](#task-2)
-
-
 
 ### Task 1
 The task is solved by creating a self-function for each step, to make it more readable and user friendly.
