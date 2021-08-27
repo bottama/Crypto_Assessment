@@ -14,7 +14,7 @@ Here are the answer for the differents tasks:
 ### Task 1
 The task is solved by creating a self-function for each step, to make it more readable and user friendly.
 
-All the functions are in [utils1.py](../CryptoFinance_assessment2/src/utils1.py).
+All the functions are in [utils1.py](/src/utils1.py).
 
 Link to the answers:
 1. [Task 1.a](#task-1a)
@@ -568,15 +568,15 @@ def comparison(df, time_interval, feature, weight, N, local_folder):
     return df
 ```
 
-The summary statistics with all the comparison are [here](../reports/task1/tables/XBTUSD_summary.csv).
+The summary statistics with all the comparison are [here](/reports/task1/tables/XBTUSD_summary.csv).
 This is the plot:
-![](../reports/task1/images/XBTUSD_summary.png)
+![](/reports/task1/images/XBTUSD_summary.png)
 
 
 ### Task 2
 The task is solved by creating a self-function for each step, to make it more readable and user-friendly.
 
-All the functions are in [utils2.py](../CryptoFinance_assessment2/src/utils2.py).
+All the functions are in [utils2.py](/CryptoFinance_assessment2/src/utils2.py).
 
 Link to the answers:
 1. [Task 2.a](#task-2a)
@@ -801,19 +801,19 @@ def historical_analysis(df, markets, local_folder, interval, rolling_days, days)
 Now let's have a look at some plots!
 
 The first is the histogram of the returns. Here we can immediately appreciate the skewness and the leverage effects of the returns.
-As well as understanding quite immediately the trends and the volatility. Here are the [summary statistics](../reports/task2/tables/summary_statistics_ret.csv)
+As well as understanding quite immediately the trends and the volatility. Here are the [summary statistics](/reports/task2/tables/summary_statistics_ret.csv)
 
-![](../reports/task2/images/histogram_ret.png)
+![](/reports/task2/images/histogram_ret.png)
 
 Then, Let's have a look at the cumulative performance and at the rolling correlation.
 We can appreciate that ETH/USD produces hihger performance, while keeping the correlation between the two always over 65% over a 30 days rolling window.
 By the way there were important deviation from the mean and also from the median value of the correlation. Further studies about the spillovers effects and the co-movements could be beneficial in terms of risk-management and also mean-reverting trading strategies.
 
-![](../reports/task2/images/performance_and_rolling_correlation.png)
+![](/reports/task2/images/performance_and_rolling_correlation.png)
 
 Finally, the realized volatility. As expcted they are very similar with ETH/USD being more volatile.
 We can appreicate clustes and mean-reverting volatility effects, thus is important to look at the risk asjusted performance.
-![](../reports/task2/images/realized_volatility.png)
+![](/reports/task2/images/realized_volatility.png)
 
 
 #### Task 2.c
@@ -855,7 +855,7 @@ def cointegration_test(df, local_folder):
     return cointegration_df
 ```
 
-The results are stored here: [cointegration_test](../reports/task2/tables/cointegration_test.csv)
+The results are stored here: [cointegration_test](/reports/task2/tables/cointegration_test.csv)
 The Null hypothesis is that there is no cointegration, the alternative hypothesis is that there is cointegrating relationship. If the pvalue is small, below a critical size, then we can reject the hypothesis that there is no cointegrating relationship.
 P-values and critical values are obtained through regression surface approximation from MacKinnon 1994 and 2010.
 
