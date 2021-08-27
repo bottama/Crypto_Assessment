@@ -6,7 +6,7 @@
 
 ## Project description
 
-This project is to answer theese question: [Assessment 2](.../Candidate_folder/Assessment%202.pdf)
+This project is to answer theese question: [Assessment 2](../Candidate_folder/Assessment%202.pdf)
 
 
 To solve the question it has been used `Python 3.7` on a local machine with `PyCharm CE`.
