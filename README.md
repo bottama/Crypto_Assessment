@@ -6,7 +6,7 @@
 
 ## Project description
 
-This project is to answer theese question: [Assessment 2](/Candidate_folder/Assessment%202.pdf)
+This project is to answer these questions: [Assessment 2](/Candidate_folder/Assessment%202.pdf)
 
 
 To solve the question it has been used `Python 3.7` on a local machine with `PyCharm CE`.
@@ -21,8 +21,8 @@ CryptoFinance_assessment2/
                 OHLC_screenshot.png
                 OHLC_screenshot_step2.png
                 OHLC_screenshot_step3.png
-                XBTUSD.pdf
-                XBTUSD_amount.pdf
+                XBTUSD.png
+                XBTUSD_amount.png
                 ...
             tables/
                 final_data.csv
@@ -30,12 +30,12 @@ CryptoFinance_assessment2/
                 ...
         task2/
             images/
-                histogram_ret.pdf
-                performance_and_rolling_correlation.pdf
-                realized_volatility.pdf
+                histogram_ret.png
+                performance_and_rolling_correlation.png
+                realized_volatility.png
             tables/
-                cointgration_test.csv
-                summary_statistics_ret.csv  
+                cointgration_test.png
+                summary_statistics_ret.png
     deliverables/
             run_assessment.py
     src/
@@ -68,4 +68,5 @@ In this [folder](/deliverables) there is the script you need to run in order to 
 In this [folder](/src) there are the script [utils1.py](/src/utils1.py) and the script [utils2.py](/src/utils2.py) with the set of functions needed to solve the tasks.
 
 ## Candidate folder
-In this folder are stored all the data available on the dropbox at the beginning, with nothing being modified.
+In this [folder](/Candidate_folder) are stored all the data available on the dropbox at the beginning, with nothing being modified (due to github contraints datasets weren't uploaded there).
+
