@@ -6,7 +6,7 @@
 
 ## Project description
 
-This project is to answer theese question: [Assessment 2](../CryptoFinance_assessment2/Candidate_folder/Assessment%202.pdf)
+This project is to answer theese question: [Assessment 2](.../Candidate_folder/Assessment%202.pdf)
 
 
 To solve the question it has been used `Python 3.7` on a local machine with `PyCharm CE`.
@@ -56,16 +56,16 @@ CryptoFinance_assessment2/
 
 
 ## Reports
-In this [folder](../CryptoFinance_assessment2/reports) you can find the file [report.md](../CryptoFinance_assessment2/reports/report.md) with the summary of the results.
-Furthermore, in the sub-folder [task1](../CryptoFinance_assessment2/reports/task1) are stored both the [images](../CryptoFinance_assessment2/reports/task1/images) and the [tables](../CryptoFinance_assessment2/reports/task1/tables) to show the results of the task 1.
-At the same way, in the sub-folder [task2](../CryptoFinance_assessment2/reports/task2) are stored both the [images](../CryptoFinance_assessment2/reports/task2/images) and the [tables](../CryptoFinance_assessment2/reports/task2/tables) to show the results of the task 2.
+In this [folder](.../reports) you can find the file [report.md](.../reports/report.md) with the summary of the results.
+Furthermore, in the sub-folder [task1](.../reports/task1) are stored both the [images](.../reports/task1/images) and the [tables](.../reports/task1/tables) to show the results of the task 1.
+At the same way, in the sub-folder [task2](.../reports/task2) are stored both the [images](.../reports/task2/images) and the [tables](.../reports/task2/tables) to show the results of the task 2.
 
 ## Deliverables
-In this [folder](../CryptoFinance_assessment2/deliverables) there is the script you need to run in order to obtain the results.
-[run_assessment.py](../CryptoFinance_assessment2/deliverables/run_assessment.py)
+In this [folder](.../deliverables) there is the script you need to run in order to obtain the results.
+[run_assessment.py](.../deliverables/run_assessment.py)
 
 ## src
-In this [folder](../CryptoFinance_assessment2/src) there are the script [utils1.py](../CryptoFinance_assessment2/src/utils1.py) and the script [utils2.py](../CryptoFinance_assessment2/src/utils2.py) with the set of functions needed to solve the tasks.
+In this [folder](.../src) there are the script [utils1.py](.././src/utils1.py) and the script [utils2.py](.../src/utils2.py) with the set of functions needed to solve the tasks.
 
 ## Candidate folder
 In this folder are stored all the data available on the dropbox at the beginning, with nothing being modified.
