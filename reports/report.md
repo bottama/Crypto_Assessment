@@ -288,7 +288,7 @@ def remove_outliers(df, feature, local_folder):
     return print('Task 1.e: Clean the outliers in the variable ' + feature + ': DONE')
 ```
 
-Accessing the results in: [XBTUSD_summary.csv](../reports/task1/tables/XBTUSD_summary.csv) we can statistically appreciate that removing outliers smooth the reuslts, therefore the standard deviation is smaller and at the same way the maximum and the minimum results deviate less from the mean.
+Accessing the results in: [XBTUSD_amount.csv](../reports/task1/tables/XBTUSD_amount.csv) we can statistically appreciate that removing outliers smooth the reuslts, therefore the standard deviation is smaller and at the same way the maximum and the minimum results deviate less from the mean.
 
 Visually, comparing the two distribution in the same plot:
 ![](../reports/task1/images/XBTUSD_amount.png)
